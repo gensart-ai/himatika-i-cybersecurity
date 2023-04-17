@@ -1,11 +1,12 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<p align="center">
+  <img width="200" src="https://i.ibb.co/XWSDBY3/intellogy-default.png"/>
+</p>
 
 
-# HIMATIKA Workshop Intellogy Hands on Project
+# Workshop Intellogy Hands on Project
 
-
-
-Project Cybersecurity dengan Python | UTC+7 - 17 April 2023
+Project Cybersecurity dengan Python | UTC+7 - 17 April 2023<br>
+With association of Intellogy workshop at April 2023
 
 
 ## Jenis Project
