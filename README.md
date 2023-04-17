@@ -12,8 +12,8 @@ With association of Intellogy workshop at April 2023
 ## Jenis Project
 ##### Terdapat dua project dalam repository ini :
 
-- Port & Host Scanner dengan NMAP
-- Simple Password Generator
+- Port & Host Scanner dengan NMAP (Filename : `gens_cs_i.py`)
+- Simple Password Generator (Filename : `gens_cs_ii.py`)
 
 
 ## Created/Tested/Used By
